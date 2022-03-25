@@ -13,5 +13,60 @@ namespace DonateDrugs
         {
 
         }
+
+        protected void cart_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void allDrugs_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void userLogin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void signUp_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void Logout_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void helloUser_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void adminLongin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void donorManagement_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void drugInventory_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void drugIssuing_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void memberManagement_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
