@@ -26,7 +26,7 @@ namespace DonateDrugs
 
         protected void userLogin_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("userLogin.aspx");
         }
 
         protected void signUp_Click(object sender, EventArgs e)
