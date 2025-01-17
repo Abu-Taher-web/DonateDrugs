@@ -1,4 +1,4 @@
-# 🌟 Free Medicine Donation Website  
+# 🌟 Full-Stack Free Medicine Donation Website  
 
 This project is a **Free Medicine Donation Website** aimed at collecting unused medicines from individuals, taking donations from donors, and distributing these medicines to underprivileged individuals who cannot afford expensive treatments. It leverages modern web technologies for efficient management and accessibility.  
 
