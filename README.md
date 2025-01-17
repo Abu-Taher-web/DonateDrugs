@@ -1,4 +1,24 @@
-# 🌟 Full-Stack Free Medicine Donation Website  
+<div align="center">  
+<h1 align="center">  
+ <img src="imgs/donate medicine.jpg" alt="App Icon" width="200">  
+<br>Full-Stack Free Medicine Donation Website</h1>  
+<h3>Developed with the packages and tools below 🛠️</h3>  
+<h3>Bootstrap, C#, ASP.NET, Microsoft SQL Server, Visual Studio⚙️</h3>  
+<p align="center">  
+<img src="https://img.shields.io/badge/Bootstrap-blue?logo=bootstrap&logoColor=%237952B3&labelColor=white" alt="Bootstrap" />  
+<img src="https://img.shields.io/badge/ASP.NET-blue?logo=dotnet&logoColor=%23512BD4&labelColor=white", alt="ASP.NET"/>  
+<img src="https://img.shields.io/badge/MS%20SQL-blue?logo=namesilo&logoColor=%23512BD4&labelColor=white", alt="SQL"/>  
+<img src="https://img.shields.io/badge/Visual%20Studio-blue?logo=v&logoColor=%23512BD4&labelColor=white", alt="Visual Studio"/>  
+<img src="https://img.shields.io/badge/C%23-blue?logo=c&logoColor=%23512BD4&labelColor=white", alt="Sklearn"/>  
+</p>  
+<img src="https://img.shields.io/github/license/Abu-Taher-web/DonateDrugs?style=for-the-badge&color=5D6D7E" alt="GitHub license" />  
+<img src="https://img.shields.io/github/last-commit/Abu-Taher-web/DonateDrugs?style=for-the-badge&color=5D6D7E" alt="git-last-commit" />  
+<img src="https://img.shields.io/github/commit-activity/m/Abu-Taher-web/DonateDrugs?style=for-the-badge&color=5D6D7E" alt="GitHub commit activity" />  
+<img src="https://img.shields.io/github/languages/top/Abu-Taher-web/DonateDrugs?style=for-the-badge&color=5D6D7E" alt="GitHub top language" />   
+</div>  
+
+
+# 🌟 Description 
 
 This project is a **Free Medicine Donation Website** aimed at collecting unused medicines from individuals, taking donations from donors, and distributing these medicines to underprivileged individuals who cannot afford expensive treatments. It leverages modern web technologies for efficient management and accessibility.  
 
